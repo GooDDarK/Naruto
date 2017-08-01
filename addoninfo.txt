@@ -1,0 +1,16 @@
+"AddonInfo"
+{
+  "TeamCount" "10"
+  "maps"      "dota mid duo"
+  "IsPlayable"  "1"
+  "dota"
+  {
+          "MaxPlayers"                    "10"
+  }
+ "mid"
+  {
+          "MaxPlayers"                    "2"
+  } "duo"
+  {
+          "MaxPlayers"                    "4"
+  }}
